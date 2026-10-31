@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Tanmoy Dasgupta 🚀</h1>
 
 <p align="center">
-  🧑‍💻 Staff Engineer @ <strong>Warner Bros. Discovery</strong> <br>
+  🧑‍💻 Staff ML Engineer @ <strong>Coupang</strong> <br>
   🎓 M.S. in Software Systems (Data Analytics) @ <strong>BITS Pilani</strong><br>
   🧠 Building LLM-based Architectures • Scalable Distributed Systems • Obs & Analytics Platforms
 </p>
